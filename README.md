@@ -11,8 +11,10 @@ This dataset explores **video game industry traits** including:
 - **Regional profitability** and revenue drivers  
 
 ## 📌Team  
-Our Team  **Rajani Mankhala**, ** Haseeb Shaukat Vohra**,  **regions driving the highest game revenues**.  
-By studying global video game sales data, the project uncovers hidden trends that highlight how the industry has evolved over time.  
+Our Team  
+   **Rajani Mankhala**
+    **Haseeb Shaukat Vohra**
+    **Bushra A**
 
 
 ## 🛠️ Tools & Technologies  
