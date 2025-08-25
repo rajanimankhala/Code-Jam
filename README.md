@@ -66,7 +66,16 @@ Our Team
 
 ### 🔹 Regional Strategy  
 - Increase **marketing spend** in revenue-driving regions (North America, Europe)  
-- Explore **localized content opportunities** in Japan and other niche markets  
+- Explore **localized content opportunities** in Japan and other niche markets
+
+- ## 📊 Dashboard Previews  
+
+### Platform Dominance (1983–1996)  
+![Platform Dominance Over Time - Early Years](images/platform_dominance_early.png)  
+
+### Platform Dominance (1997–2012)  
+![Platform Dominance Over Time - Later Years](images/platform_dominance_later.png)  
+
 
 ## 🚀 How to Run  
 1. Clone this repository:  
