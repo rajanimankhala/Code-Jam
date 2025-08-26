@@ -70,15 +70,13 @@ This dataset explores **video game industry traits** including:
 - ## 📊 Dashboard Previews  
 
 ### Platform Dominance (1983–1996)  
+![pd1](https://github.com/user-attachments/assets/be205cc5-1fbf-4b56-a02d-1f903be5b3e6)
 
 ### Platform Dominance (1997–2012)  
-![Platform Dominance Over Time - Later Years](images/platform_dominance_later.png)  
+ 
+![pd2](https://github.com/user-attachments/assets/f2e0b264-ce44-40ab-a736-13021046759a)
 
 ### Genre Preference by Region
 ![Genre Preference](https://github.com/user-attachments/assets/bba025ba-d132-474c-a427-970c4fd22219)
 
-## 🚀 How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/rajanimankhala/Code-Jam-name.git
 
