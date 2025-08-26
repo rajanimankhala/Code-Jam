@@ -20,7 +20,7 @@ This dataset explores **video game industry traits** including:
 - **Genre distribution** and popularity trends  
  - **Regional profitability** and revenue drivers  
 
-## 📌 Team  
+## 📌 Team :: BIA Champs
 👩‍💻 **Rajani Mankhala**  
 👨‍💻 **Haseeb Shaukat Vohra**  
 👩‍💻 **Bushra Abukarn**  
@@ -31,17 +31,23 @@ This dataset explores **video game industry traits** including:
 
 ## 🔍 Methodology  
 1. **Data Cleaning & Preprocessing**  
-   - Converted regional sales columns into two columns using Pivoting  
-   - Ignored null values  
-   - Categorized release years into **Millennial** and **Gen Z** groups  
+    - Converted regional sales columns into two columns using Pivoting  
+    - Ignored null values  
+    - Categorized release years into **Millennial** and **Gen Z** groups  
 
 2. **Exploratory Data Analysis (EDA)**  
    - Analyzed **platform dominance** over time  
    - Studied **genre preferences** across regions  
 
 3. **Visualization**  
-   - **Bar Charts** → Highlighting platform dominance over time  
+   - **Bar Charts** → Highlighting platform dominance over time, Sales by Generation Cohort  
    - **Tree Maps** → Showing genre preferences across regions  
+   - **Bar Charts** → Highlighting platform dominance over time, Sales by Generation Cohort  
+   - **Tree Maps** → Showing genre preferences across regions
+   - **Scaterred Plot** → Impact of Reviews on Sales
+   - **Line Charts** → Platform lifecycle over the period of time (Years)
+   - **Packed Bubbles** → Sales by Genre
+   - **Side by Side Bars** → Sales by Generation Cohort and Genre combined
 
 4. **Insights**  
    - Until **1988**, Nintendo’s NES was the dominant platform  
@@ -61,18 +67,17 @@ This dataset explores **video game industry traits** including:
      - **Europe** → Sports, Action  
      - **Japan** → Role-playing, Platform  
      - **Rest of World** → Sports, Action  
-   -   **Corelation between Sales and Reviews**:  
-      - More reviews More Sales
-      - Corelation is linear across Platforms 
+   -   **Correlation between Sales and Reviews**:  
+      - More reviews, More Sales
+      - Correlation is linear across Platforms 
    -   **Platform Lifecycle**
-      - Lifecycle of Platform is squeezing with tech advancements and innovations
+      - The lifecycle of the Platform is squeezing with rapid tech advancements and innovations
    -   **Sales**
-       - Sports and Actions generates the highest sales across genres, while Strategy contributes the least
+       - Sports and Actions generate the highest sales across genres, while Strategy contributes the least
        - Gen Z strongly drives sales across all genres, with Sport, Action, and Shooter leading, while Millennials show minimal contribution except for Platform
        - Gen Z accounts for the overwhelming majority of global sales compared to Millennials
-
      
-## 📌 Recommendations  
+# 📌 Recommendations  
 
 ### 🔹 Platform Strategy  
 - Focus on **emerging platforms** during peak sales cycles (new console launches)  
