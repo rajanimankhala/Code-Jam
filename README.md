@@ -8,13 +8,12 @@ By studying global video game sales data, the project uncovers hidden trends tha
 This dataset explores **video game industry traits** including:  
 - **Platform usage** across generations  
 - **Genre distribution** and popularity trends  
-- **Regional profitability** and revenue drivers  
+ - **Regional profitability** and revenue drivers  
 
-## 📌Team  
-Our Team  
-   **Rajani Mankhala**
-    **Haseeb Shaukat Vohra**
-    **Bushra A**
+## 📌 Team  
+👩‍💻 **Rajani Mankhala**  
+👨‍💻 **Haseeb Shaukat Vohra**  
+👩‍💻 **Bushra A**  
 
 
 ## 🛠️ Tools & Technologies  
