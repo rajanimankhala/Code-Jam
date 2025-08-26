@@ -70,11 +70,12 @@ This dataset explores **video game industry traits** including:
 - ## 📊 Dashboard Previews  
 
 ### Platform Dominance (1983–1996)  
-![Platform Dominance Over Time - Early Years](images/platform_dominance_early.png)  
 
 ### Platform Dominance (1997–2012)  
 ![Platform Dominance Over Time - Later Years](images/platform_dominance_later.png)  
 
+### Genre Preference by Region
+![Genre Preference](https://github.com/user-attachments/assets/bba025ba-d132-474c-a427-970c4fd22219)
 
 ## 🚀 How to Run  
 1. Clone this repository:  
