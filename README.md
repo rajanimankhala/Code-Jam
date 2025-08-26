@@ -49,7 +49,7 @@ This dataset explores **video game industry traits** including:
    - **Packed Bubbles** → Sales by Genre
    - **Side by Side Bars** → Sales by Generation Cohort and Genre combined
 
-# 📜 Video Gaming History
+## 📜 Video Gaming History
    - Until **1988**, Nintendo’s NES was the dominant platform  
    - **1989**: Nintendo introduced DS (dual screen, immersive experience) → **60M sales**  
    - **1990**: SNES launched (16-bit, better graphics & sound) → GB sales declined  
@@ -63,7 +63,7 @@ This dataset explores **video game industry traits** including:
    - **2011**: Sony launched PS3 → PS3 and Xbox 360 shared the market until 2012, though overall sales declined  
    - **2008** marked the peak of the industry with ~**400M global sales**
 
-# 🔍 Insights  
+## 🔍 Insights  
    - **Genre preferences by region**:  
      - **North America** → Sports, Shooter  
      - **Europe** → Sports, Action  
@@ -79,7 +79,7 @@ This dataset explores **video game industry traits** including:
        - Gen Z strongly drives sales across all genres, with Sport, Action, and Shooter leading, while Millennials show minimal contribution except for Platform
        - Gen Z accounts for the overwhelming majority of global sales compared to Millennials
 
-# 💡 Recommendations  
+## 💡 Recommendations  
 
 ### 🔹 Platform Strategy  
 - Focus on **emerging platforms** during peak sales cycles (new console launches)  
