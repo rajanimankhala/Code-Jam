@@ -51,15 +51,15 @@ This dataset explores **video game industry traits** including:
      - **Europe** → Sports, Action  
      - **Japan** → Role-playing, Platform  
      - **Rest of World** → Sports, Action  
-  -   **Corelation between Sales and Reviews**:  
+   -   **Corelation between Sales and Reviews**:  
       - More reviews More Sales
       - Corelation is linear across Platforms 
    -   **Platform Lifecycle**
       - Lifecycle of Platform is squeezing with tech advancements and innovations
-  -   **Sales**
-      - Sports and Actions generates the highest sales across genres, while Strategy contributes the least
-      - Gen Z strongly drives sales across all genres, with Sport, Action, and Shooter leading, while Millennials show minimal contribution except for Platform
-      - Gen Z accounts for the overwhelming majority of global sales compared to Millennials
+   -   **Sales**
+       - Sports and Actions generates the highest sales across genres, while Strategy contributes the least
+       - Gen Z strongly drives sales across all genres, with Sport, Action, and Shooter leading, while Millennials show minimal contribution except for Platform
+       - Gen Z accounts for the overwhelming majority of global sales compared to Millennials
 
      
 ## 📌 Recommendations  
@@ -76,6 +76,11 @@ This dataset explores **video game industry traits** including:
 ### 🔹 Regional Strategy  
 - Increase **marketing spend** in revenue-driving regions (North America, Europe)  
 - Explore **localized content opportunities** in Japan and other niche markets
+### 🔹 Sales  Strategy  
+
+ - **Focus marketing and development investment** on *Sports* and *Action*, while exploring niche opportunities in underperforming genres like *Strategy*.  
+ - **Tailor game releases and promotional campaigns** toward **Gen Z preferences**, while creating targeted strategies to **re-engage Millennials** (especially in genres like *Platform*).  
+ - **Prioritize Gen Z** as the primary customer base, but implement **retention strategies for Millennials** to expand overall market share balance.  
 
 - ## 📊 Dashboard Previews  
 
@@ -89,4 +94,12 @@ This dataset explores **video game industry traits** including:
 ### Genre Preference by Region
 ![Genre Preference](https://github.com/user-attachments/assets/bba025ba-d132-474c-a427-970c4fd22219)
 
+### Corelation Between Sales and Review
+<img width="1152" height="648" alt="sandr" src="https://github.com/user-attachments/assets/6c71c9a1-7dae-4b33-b23d-106b6d0e38b2" />
+
+### Platform Lifecycle
+
+![lifecycle](https://github.com/user-attachments/assets/02e4a4bf-ad75-4646-bc66-d20c8dfc5613)
+### Sales
+<img width="1699" height="831" alt="image (3)" src="https://github.com/user-attachments/assets/f91689b2-243a-4d38-88dc-900c92a2a203" />
 
