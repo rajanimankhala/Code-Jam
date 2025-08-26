@@ -1,8 +1,18 @@
 # 🎮 Discovering Hidden Trends in Global Video Games  
 
 ## 📌 Project Description  
-This project analyzes **platform dominance shifts**, **genre preferences**, **regions driving the highest game revenues**,**Corelation between reviews and Sales**, **Platform Lifecycle** .
-By studying global video game sales data, the project uncovers hidden trends that highlight how the industry has evolved over time.  
+
+This project explores global video game sales data to uncover hidden trends and insights into the gaming industry’s evolution over time. By analyzing key aspects of the dataset, our goal is to answer critical questions about the market and highlight patterns that shaped the industry’s growth.  
+
+## Key Areas of Analysis
+- **Platform Dominance Shifts** – How the popularity of gaming platforms has changed across generations.  
+- **Genre Preferences** – Identifying which game genres perform best across time and audiences.  
+- **Regional Insights** – Highlighting regions that drive the highest game revenues.  
+- **Reviews vs. Sales Correlation** – Understanding the relationship between critical reviews and commercial success.  
+- **Platform Lifecycle** – Examining the rise and decline of gaming platforms over time.  
+- **Genre & Cohort Generations** – Analyzing which combinations of genres and generational cohorts generate the highest sales.  
+
+Through this analysis, we aim to provide meaningful insights into the shifting landscape of the video game industry, enabling a deeper understanding of consumer behavior, platform competition, and global market drivers.
 
 ## 📊 Dataset  
 This dataset explores **video game industry traits** including:  
