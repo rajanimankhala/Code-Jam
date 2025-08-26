@@ -49,7 +49,7 @@ This dataset explores **video game industry traits** including:
    - **Packed Bubbles** → Sales by Genre
    - **Side by Side Bars** → Sales by Generation Cohort and Genre combined
 
-4. **Insights**  
+## Video Gaming History
    - Until **1988**, Nintendo’s NES was the dominant platform  
    - **1989**: Nintendo introduced DS (dual screen, immersive experience) → **60M sales**  
    - **1990**: SNES launched (16-bit, better graphics & sound) → GB sales declined  
@@ -61,7 +61,9 @@ This dataset explores **video game industry traits** including:
    - **2005**: Microsoft launched Xbox 360; Nintendo released Wii → dominated until 2009  
    - **2010**: Xbox 360 surged with **Kinect motion sensor** + *Halo* release  
    - **2011**: Sony launched PS3 → PS3 and Xbox 360 shared the market until 2012, though overall sales declined  
-   - **2008** marked the peak of the industry with ~**400M global sales**  
+   - **2008** marked the peak of the industry with ~**400M global sales**
+
+   # Insights  
    - **Genre preferences by region**:  
      - **North America** → Sports, Shooter  
      - **Europe** → Sports, Action  
@@ -95,9 +97,11 @@ This dataset explores **video game industry traits** including:
 
  - **Focus marketing and development investment** on *Sports* and *Action*, while exploring niche opportunities in underperforming genres like *Strategy*.  
  - **Tailor game releases and promotional campaigns** toward **Gen Z preferences**, while creating targeted strategies to **re-engage Millennials** (especially in genres like *Platform*).  
- - **Prioritize Gen Z** as the primary customer base, but implement **retention strategies for Millennials** to expand overall market share balance.  
+ - **Prioritize Gen Z** as the primary customer base, but implement **retention strategies for Millennials** to expand overall market share balance.
+   
 
  # 📊 Dashboard Previews  
+ 
 
 ### Platform Dominance (1983–1996)  
 ![pd1](https://github.com/user-attachments/assets/be205cc5-1fbf-4b56-a02d-1f903be5b3e6)
