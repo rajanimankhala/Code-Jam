@@ -97,7 +97,7 @@ This dataset explores **video game industry traits** including:
  - **Tailor game releases and promotional campaigns** toward **Gen Z preferences**, while creating targeted strategies to **re-engage Millennials** (especially in genres like *Platform*).  
  - **Prioritize Gen Z** as the primary customer base, but implement **retention strategies for Millennials** to expand overall market share balance.  
 
-- ## 📊 Dashboard Previews  
+ # 📊 Dashboard Previews  
 
 ### Platform Dominance (1983–1996)  
 ![pd1](https://github.com/user-attachments/assets/be205cc5-1fbf-4b56-a02d-1f903be5b3e6)
