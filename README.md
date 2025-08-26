@@ -51,7 +51,13 @@ This dataset explores **video game industry traits** including:
      - **Europe** → Sports, Action  
      - **Japan** → Role-playing, Platform  
      - **Rest of World** → Sports, Action  
+  -   **Corelation between Sales and Reviews**:  
+     -   More reviews More Sales
+     -   Corelation is linear across Platforms 
+   -   **Platform Lifecycle**
+      - Lifecycle of Platform is squeezing with tech advancements and innovations 
 
+     
 ## 📌 Recommendations  
 
 ### 🔹 Platform Strategy  
