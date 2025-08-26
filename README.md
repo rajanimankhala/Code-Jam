@@ -1,6 +1,6 @@
 # 🎮 Discovering Hidden Trends in Global Video Games  
 
-## 📌 Project Description  
+## 🎯 Project Description  
 
 This project explores global video game sales data to uncover hidden trends and insights into the gaming industry’s evolution over time. By analyzing key aspects of the dataset, our goal is to answer critical questions about the market and highlight patterns that shaped the industry’s growth.  
 
@@ -49,7 +49,7 @@ This dataset explores **video game industry traits** including:
    - **Packed Bubbles** → Sales by Genre
    - **Side by Side Bars** → Sales by Generation Cohort and Genre combined
 
-## Video Gaming History
+# 📜 Video Gaming History
    - Until **1988**, Nintendo’s NES was the dominant platform  
    - **1989**: Nintendo introduced DS (dual screen, immersive experience) → **60M sales**  
    - **1990**: SNES launched (16-bit, better graphics & sound) → GB sales declined  
@@ -63,7 +63,7 @@ This dataset explores **video game industry traits** including:
    - **2011**: Sony launched PS3 → PS3 and Xbox 360 shared the market until 2012, though overall sales declined  
    - **2008** marked the peak of the industry with ~**400M global sales**
 
-   # Insights  
+# 🔍 Insights  
    - **Genre preferences by region**:  
      - **North America** → Sports, Shooter  
      - **Europe** → Sports, Action  
@@ -78,8 +78,8 @@ This dataset explores **video game industry traits** including:
        - Sports and Actions generate the highest sales across genres, while Strategy contributes the least
        - Gen Z strongly drives sales across all genres, with Sport, Action, and Shooter leading, while Millennials show minimal contribution except for Platform
        - Gen Z accounts for the overwhelming majority of global sales compared to Millennials
-     
-# 📌 Recommendations  
+
+# 💡 Recommendations  
 
 ### 🔹 Platform Strategy  
 - Focus on **emerging platforms** during peak sales cycles (new console launches)  
@@ -113,7 +113,7 @@ This dataset explores **video game industry traits** including:
 ### Genre Preference by Region
 ![Genre Preference](https://github.com/user-attachments/assets/bba025ba-d132-474c-a427-970c4fd22219)
 
-### Corelation Between Sales and Review
+### Correlation Between Sales and Review
 <img width="1152" height="648" alt="sandr" src="https://github.com/user-attachments/assets/6c71c9a1-7dae-4b33-b23d-106b6d0e38b2" />
 
 ### Platform Lifecycle
