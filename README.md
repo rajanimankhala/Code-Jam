@@ -100,7 +100,7 @@ This dataset explores **video game industry traits** including:
  - **Prioritize Gen Z** as the primary customer base, but implement **retention strategies for Millennials** to expand overall market share balance.
    
 
- # 📊 Dashboard Previews  
+ ## 📊 Dashboard Previews  
  
 
 ### Platform Dominance (1983–1996)  
