@@ -4,7 +4,7 @@
 
 This project explores global video game sales data to uncover hidden trends and insights into the gaming industry’s evolution over time. By analyzing key aspects of the dataset, our goal is to answer critical questions about the market and highlight patterns that shaped the industry’s growth.  
 
-## Key Areas of Analysis
+### Key Areas of Analysis
 - **Platform Dominance Shifts** – How the popularity of gaming platforms has changed across generations.  
 - **Genre Preferences** – Identifying which game genres perform best across time and audiences.  
 - **Regional Insights** – Highlighting regions that drive the highest game revenues.  
