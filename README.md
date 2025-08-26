@@ -1,7 +1,7 @@
 # 🎮 Discovering Hidden Trends in Global Video Games  
 
 ## 📌 Project Description  
-This project analyzes **platform dominance shifts**, **genre preferences**, and the **regions driving the highest game revenues**.  
+This project analyzes **platform dominance shifts**, **genre preferences**, **regions driving the highest game revenues**,**Corelation between reviews and Sales**, **Platform Lifecycle** .
 By studying global video game sales data, the project uncovers hidden trends that highlight how the industry has evolved over time.  
 
 ## 📊 Dataset  
