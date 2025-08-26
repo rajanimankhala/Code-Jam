@@ -13,7 +13,7 @@ This dataset explores **video game industry traits** including:
 ## 📌 Team  
 👩‍💻 **Rajani Mankhala**  
 👨‍💻 **Haseeb Shaukat Vohra**  
-👩‍💻 **Bushra A**  
+👩‍💻 **Bushra Abukarn**  
 
 
 ## 🛠️ Tools & Technologies  
