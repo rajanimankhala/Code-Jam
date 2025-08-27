@@ -50,8 +50,8 @@ This dataset explores **video game industry traits** including:
    - **Side by Side Bars** → Sales by Generation Cohort and Genre combined
 
 ## 📜 Video Gaming History
-   - Until **1987**, Nintendo’s NES was the dominant platform ,introduced DS in 1988 (dual screen, immersive experience)
-   - **1989**:  DS Sales -> **60M **  
+   - Until **1987**, Nintendo’s NES was the dominant platform ,introduced GB in 1988 (compact,portable , faster processor)
+   - **1989**:  GB Sales -> **60M **  
    - **1990**: SNES launched (16-bit, better graphics & sound) → GB sales declined  
    - **1990**: NES revived due to *Super Mario Bros 3* → huge success  
    - **1992**: GB sales rebounded, surpassing SNES  
